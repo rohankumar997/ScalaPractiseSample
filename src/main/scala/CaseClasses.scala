@@ -7,9 +7,9 @@ object UsingCase {
     val row_1 = new CaseClasses(1,"ron",43);
     val row_2 = row_1.copy()
 
-    print(row_1==row_2)
+    println(row_1==row_2)
 
-    print(row_1.hashCode())
+    println(row_1.hashCode())
 
   }
 }

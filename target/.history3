@@ -1,1 +1,11 @@
 1613130853248:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/ag16000/AppData/Local/Temp/1/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "C:/Users/ag16000/AppData/Roaming/JetBrains/IntelliJIdea2020.1/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1615369886590:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/ag16000/AppData/Local/Temp/1/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "C:/Users/ag16000/AppData/Roaming/JetBrains/IntelliJIdea2020.3/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2020.3/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1616568259076:sbt run
+1616568276042:scala tryCatch.scala
+1616568283934:clear
+1616568933039:mainClass in (Compile, packageBin) := Some("TimeShow")
+1616568948676:mainClass in (Compile, run) := Some("TimeShow")
+1616568971154:run
+1616569174436:run "com.FirstProgramme.Maps_in_scala"
+1616569859088:quit
+1616569861209:exit

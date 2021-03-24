@@ -15,5 +15,7 @@ object MapPractise {
 
     println(finding ++ finding1)
 
+    println(finding.size)
+
   }
 }

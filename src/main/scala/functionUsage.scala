@@ -1,11 +1,11 @@
 object functionUsage {
   def main(args:Array[String]){
-   print( areaFind(1,2))
+   print( Area(1,2))
 
   }
 
-  def areaFind(a:Int,b:Int)={
-     a + b
-  }
+def Area(a:Int,b:Int): Int ={
+      a + b
+}
 
 }

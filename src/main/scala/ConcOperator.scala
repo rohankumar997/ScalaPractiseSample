@@ -2,7 +2,7 @@ object ConcOperator {
 
   def main(args: Array[String]): Unit = {
     val finding = List(1, 2, 3, 4, 5, 6)
-
+//conc operator :: used to concat an element to list
     println(0 :: finding)
     println("##############")
     for (i <- finding) {

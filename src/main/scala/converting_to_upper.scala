@@ -3,7 +3,7 @@ import scala.io.Source
 object converting_to_upper {
 def main(args:Array[String]): Unit ={
 
-  var location = "C:\\Users\\ag16000\\OneDrive - Anthem\\Desktop\\GITHUB\\Scala_samples\\src\\main\\scala\\test.txt";
+  var location = "C:\\Users\\ag16000\\OneDrive - Anthem\\Desktop\\GITHUB\\ScalaPractiseSample\\src\\main\\scala\\test.txt";
   var file = Source.fromFile(location);
   println("before conversion");
   for(i <- file.getLines()){
